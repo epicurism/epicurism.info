@@ -1,0 +1,661 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="robots" content="noindex,nofollow" />
+<meta name="keywords" content="Sandbox" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/iurl/opensearch_desc.php" title="Epicurus Wiki (English)" />
+		<title>Sandbox - Epicurus Wiki</title>
+		<style type="text/css" media="screen,projection">/*<![CDATA[*/ @import "/iurl/skins/gardenmotif/main.css%3f42b"; /*]]>*/</style>
+		<link rel="stylesheet" type="text/css" media="print" href="/iurl/skins/common/commonPrint.css%3f42b" />
+		<link rel="stylesheet" type="text/css" media="handheld" href="/iurl/skins/gardenmotif/handheld.css%3f42b" />
+		<!--[if lt IE 5.5000]><style type="text/css">@import "/iurl/skins/gardenmotif/IE50Fixes.css%3f42b";</style><![endif]-->
+		<!--[if IE 5.5000]><style type="text/css">@import "/iurl/skins/gardenmotif/IE55Fixes.css%3f42b";</style><![endif]-->
+		<!--[if IE 6]><style type="text/css">@import "/iurl/skins/gardenmotif/IE60Fixes.css%3f42b";</style><![endif]-->
+		<!--[if IE 7]><style type="text/css">@import "/iurl/skins/gardenmotif/IE70Fixes.css%3f42b";</style><![endif]-->
+		<!--[if lt IE 7]><script type="text/javascript" src="/iurl/skins/common/IEFixes.js?42b"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+		
+		<script type= "text/javascript">/*<![CDATA[*/
+var skin = "gardenmotif";
+var stylepath = "/iurl/skins";
+var wgArticlePath = "/$1";
+var wgScriptPath = "/iurl";
+var wgServer = "http://wiki.epicurism.info";
+var wgCanonicalNamespace = "";
+var wgCanonicalSpecialPageName = false;
+var wgNamespaceNumber = 0;
+var wgPageName = "Sandbox";
+var wgTitle = "Sandbox";
+var wgArticleId = "3";
+var wgIsArticle = true;
+var wgUserName = null;
+var wgUserLanguage = "en";
+var wgContentLanguage = "en";
+var wgBreakFrames = false;
+var wgCurRevisionId = "7702";
+/*]]>*/</script>
+                
+		<script type="text/javascript" src="/iurl/skins/common/wikibits.js?42b"><!-- wikibits js --></script>
+		<script type="text/javascript" src="/iurl/index.php?title=-&amp;action=raw&amp;gen=js"><!-- site js --></script>
+		<style type="text/css">/*<![CDATA[*/
+@import "/iurl/index.php?title=MediaWiki:Common.css&usemsgcache=yes&action=raw&ctype=text/css&smaxage=18000";
+@import "/iurl/index.php?title=MediaWiki:Gardenmotif.css&usemsgcache=yes&action=raw&ctype=text/css&smaxage=18000";
+@import "/iurl/index.php?title=-&action=raw&gen=css&maxage=18000";
+/*]]>*/</style>
+		<!-- Head Scripts -->
+			</head>
+<body  class="mediawiki ns-0 ltr page-Sandbox">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 class="firstHeading">Sandbox</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Epicurus Wiki</h3>
+			<div id="contentSub">
+				<div id="mw-revision-info">Revision as of 21:27, 10 July 2008 by <a href="/User:Doug_Hutchinson" title="User:Doug Hutchinson">Doug Hutchinson</a> (<a href="/iurl/index.php?title=User_talk:Doug_Hutchinson&amp;action=edit" class="new" title="User talk:Doug Hutchinson">Talk</a> | <a href="/Special:Contributions/Doug_Hutchinson" title="Special:Contributions/Doug Hutchinson">contribs</a>)</div>
+
+				<div id="mw-revision-nav">(<a href="/iurl/index.php?title=Sandbox&amp;diff=prev&amp;oldid=7702" title="Sandbox">diff</a>) <a href="/iurl/index.php?title=Sandbox&amp;direction=prev&amp;oldid=7702" title="Sandbox">←Older revision</a> | Current revision (diff) | Newer revision→ (diff)</div>
+			</div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<p>Use this "playspace" to practice editing conventions and to test features.
+</p>
+<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Interlinear_Function_Testbed"><span class="tocnumber">1</span> <span class="toctext">Interlinear Function Testbed</span></a></li>
+<li class="toclevel-1"><a href="#Greek_Styles_Test"><span class="tocnumber">2</span> <span class="toctext">Greek Styles Test</span></a></li>
+<li class="toclevel-1"><a href="#Greek_Extension_Test"><span class="tocnumber">3</span> <span class="toctext">Greek Extension Test</span></a></li>
+<li class="toclevel-1"><a href="#Letter_to_Herodotus"><span class="tocnumber">4</span> <span class="toctext">Letter to Herodotus</span></a></li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="Interlinear_Function_Testbed"></a><h2><span class="editsection">[<a href="/iurl/index.php?title=Sandbox&amp;action=edit&amp;section=1" title="Edit section: Interlinear Function Testbed">edit</a>]</span> <span class="mw-headline"> Interlinear Function Testbed </span></h2>
+<div id='interlinear'><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Use' title='Dictionary empty: use link below:'><font color='#800000'>Use</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Use&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:this' title='Dictionary empty: use link below:'><font color='#800000'>this</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:this&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:playspace' title='Dictionary empty: use link below:'><font color='#800000'>"playspace"</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:playspace&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:to' title='Dictionary empty: use link below:'><font color='#800000'>to</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:to&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:practice' title='Dictionary empty: use link below:'><font color='#800000'>practice</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:practice&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:editing' title='Dictionary empty: use link below:'><font color='#800000'>editing</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:editing&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:conventions' title='Dictionary empty: use link below:'><font color='#800000'>conventions</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:conventions&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:and' title='Dictionary empty: use link below:'><font color='#800000'>and</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:and&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:to' title='Dictionary empty: use link below:'><font color='#800000'>to</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:to&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:test' title='Dictionary empty: use link below:'><font color='#800000'>test</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:test&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:features' title='Dictionary empty: use link below:'><font color='#800000'>features.
+==</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:features&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Interlinear' title='Dictionary empty: use link below:'><font color='#800000'>Interlinear</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Interlinear&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Function' title='Dictionary empty: use link below:'><font color='#800000'>Function</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Function&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Testbed' title='Dictionary empty: use link below:'><font color='#800000'>Testbed</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Testbed&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:interlinear' title='Dictionary empty: use link below:'><font color='#800000'>==
+<interlinear</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:interlinear&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:source="Principal' title='Dictionary empty: use link below:'><font color='#800000'>source="Principal</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:source="Principal&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Doctrine' title='Dictionary empty: use link below:'><font color='#800000'>Doctrine</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Doctrine&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:' title='Use this "playspace" to practice editing conventions and to test features.
+<p>== Interlinear Function Testbed ==
+</p><p><interlinear source="Principal Doctrine 17 Text" lookup="GED">1:The,2:/just (is),4:the,5:while</interlinear>
+</p><p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#880088'>17</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:' title='18)The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p><p>Code 0387 &#903;
+</p><p>Code 00B7 &#183;
+</p><p>&#903;&#183;
+</p><p><span class="script90">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script130">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script150">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p>== Greek Extension Test ==
+</p><p><Greek term="Έπίκουρος"></Greek> = Epikouros = Epicurus
+</p><p><br />
+== Letter to Herodotus ==
+</p><p><Interlinear source="testtext" lookup="GED"></Interlinear>'><font color='#000000'>The,2:/just (is),4:the,5:while</interlinear>
+</p><p>== Greek Styles Test ==
+</p><p>Code 0387 &#903;
+</p><p>Code 00B7 &#183;
+</p><p>&#903;&#183;
+</p><p><span class="script90">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script130">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script150">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p>== Greek Extension Test ==
+</p><p><Greek term="Έπίκουρος"></Greek> = Epikouros = Epicurus
+</p><p><br />
+== Letter to Herodotus ==
+</p>
+<Interlinear source="testtext" lookup="GED"></Interlinear></font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Text' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#800000'>Text"</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Text&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:lookup="GED">1:The,2:/just' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#800000'>lookup="GED">1:The,2:/just</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:lookup="GED">1:The,2:/just&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:is),4:the,5:while</interlinear' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p><p>Code 0387 &amp;#903'><font color='#800000'>(is),4:the,5:while</interlinear>
+</p>
+==</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:is),4:the,5:while</interlinear&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Greek' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#800000'>Greek</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Greek&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Styles' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#800000'>Styles</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Styles&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Test' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#800000'>Test</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Test&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Code' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p><p>Code 0387 &amp;#903'><font color='#800000'>==
+</p>
+Code</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Code&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:' title='Use this "playspace" to practice editing conventions and to test features.
+<p>== Interlinear Function Testbed ==
+</p><p><interlinear source="Principal Doctrine 17 Text" lookup="GED">1:The,2:/just (is),4:the,5:while</interlinear>
+</p><p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#000000'>0387</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:' title='26)The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p><p>Code 0387 &#903;
+</p><p>Code 00B7 &#183;
+</p><p>&#903;&#183;
+</p><p><span class="script90">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script130">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script150">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p>== Greek Extension Test ==
+</p><p><Greek term="Έπίκουρος"></Greek> = Epikouros = Epicurus
+</p><p><br />
+== Letter to Herodotus ==
+</p><p><Interlinear source="testtext" lookup="GED"></Interlinear>'><font color='#000000'>The,2:/just (is),4:the,5:while</interlinear>
+</p><p>== Greek Styles Test ==
+</p><p>Code 0387 &#903;
+</p><p>Code 00B7 &#183;
+</p><p>&#903;&#183;
+</p><p><span class="script90">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script130">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script150">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p>== Greek Extension Test ==
+</p><p><Greek term="Έπίκουρος"></Greek> = Epikouros = Epicurus
+</p><p><br />
+== Letter to Herodotus ==
+</p>
+<Interlinear source="testtext" lookup="GED"></Interlinear></font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Code' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p><p>Code 0387 &amp;#903'><font color='#800000'>&#903;
+</p>
+Code</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Code&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:B' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#800000'>00B7</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:B&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:span' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p><p>Code 0387 &amp;#903'><font color='#800000'>&#183;
+</p><p>&#903;&#183;
+</p>
+<span</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:span&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:class="script90">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+<p><span' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+</p><p>== Greek Styles Test ==
+</p><p>Code 0387 &amp;#903'><font color='#800000'>class="script90">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p>
+<span</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:class="script90">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+<span&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:class="script">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+<p><span' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+</p><p>== Greek Styles Test ==
+</p><p>Code 0387 &amp;#903'><font color='#800000'>class="script">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p>
+<span</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:class="script">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+<span&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:class="script130">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+<p><span' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+</p><p>== Greek Styles Test ==
+</p><p>Code 0387 &amp;#903'><font color='#800000'>class="script130">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p>
+<span</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:class="script130">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+<span&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:class="script150">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p><p>Code 0387 &amp;#903'><font color='#800000'>class="script150">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p>
+==</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:class="script150">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Greek' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#800000'>Greek</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Greek&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Extension' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#800000'>Extension</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Extension&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Test' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#800000'>Test</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Test&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Greek' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p><p>Code 0387 &amp;#903'><font color='#800000'>==
+</p>
+<Greek</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Greek&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:term="Έπίκουρος"></Greek' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#800000'>term="Έπίκουρος"></Greek></font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:term="Έπίκουρος"></Greek&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:' title='Use this "playspace" to practice editing conventions and to test features.
+<p>== Interlinear Function Testbed ==
+</p><p><interlinear source="Principal Doctrine 17 Text" lookup="GED">1:The,2:/just (is),4:the,5:while</interlinear>
+</p><p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#000000'>=</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:' title='39)The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p><p>Code 0387 &#903;
+</p><p>Code 00B7 &#183;
+</p><p>&#903;&#183;
+</p><p><span class="script90">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script130">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script150">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p>== Greek Extension Test ==
+</p><p><Greek term="Έπίκουρος"></Greek> = Epikouros = Epicurus
+</p><p><br />
+== Letter to Herodotus ==
+</p><p><Interlinear source="testtext" lookup="GED"></Interlinear>'><font color='#000000'>The,2:/just (is),4:the,5:while</interlinear>
+</p><p>== Greek Styles Test ==
+</p><p>Code 0387 &#903;
+</p><p>Code 00B7 &#183;
+</p><p>&#903;&#183;
+</p><p><span class="script90">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script130">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script150">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p>== Greek Extension Test ==
+</p><p><Greek term="Έπίκουρος"></Greek> = Epikouros = Epicurus
+</p><p><br />
+== Letter to Herodotus ==
+</p>
+<Interlinear source="testtext" lookup="GED"></Interlinear></font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Epikouros' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#800000'>Epikouros</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Epikouros&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:' title='Use this "playspace" to practice editing conventions and to test features.
+<p>== Interlinear Function Testbed ==
+</p><p><interlinear source="Principal Doctrine 17 Text" lookup="GED">1:The,2:/just (is),4:the,5:while</interlinear>
+</p><p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#000000'>=</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:' title='41)The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p><p>Code 0387 &#903;
+</p><p>Code 00B7 &#183;
+</p><p>&#903;&#183;
+</p><p><span class="script90">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script130">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script150">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p>== Greek Extension Test ==
+</p><p><Greek term="Έπίκουρος"></Greek> = Epikouros = Epicurus
+</p><p><br />
+== Letter to Herodotus ==
+</p><p><Interlinear source="testtext" lookup="GED"></Interlinear>'><font color='#000000'>The,2:/just (is),4:the,5:while</interlinear>
+</p><p>== Greek Styles Test ==
+</p><p>Code 0387 &#903;
+</p><p>Code 00B7 &#183;
+</p><p>&#903;&#183;
+</p><p><span class="script90">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script130">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script150">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p>== Greek Extension Test ==
+</p><p><Greek term="Έπίκουρος"></Greek> = Epikouros = Epicurus
+</p><p><br />
+== Letter to Herodotus ==
+</p>
+<Interlinear source="testtext" lookup="GED"></Interlinear></font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Epicurus' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p><p>Code 0387 &amp;#903'><font color='#800000'>Epicurus
+</p><p><br />
+</p>
+==</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Epicurus&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Letter' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#800000'>Letter</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Letter&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:to' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#800000'>to</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:to&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Herodotus' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#800000'>Herodotus</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Herodotus&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Interlinear' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p><p>Code 0387 &amp;#903'><font color='#800000'>==
+</p>
+<Interlinear</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Interlinear&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:source="testtext' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#800000'>source="testtext"</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:source="testtext&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:lookup="GED"></Interlinear' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#800000'>lookup="GED"></Interlinear></font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:lookup="GED"></Interlinear&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p><a href='http://wiki.epicurism.info/iurl/index.php?title=template:Principal Doctrine 17 Text' title='Principal Doctrine 17 Text'><img src='http://www.epicurus.info/scroll.gif'></a></p></span></div>
+<a name="Greek_Styles_Test"></a><h2><span class="editsection">[<a href="/iurl/index.php?title=Sandbox&amp;action=edit&amp;section=2" title="Edit section: Greek Styles Test">edit</a>]</span> <span class="mw-headline"> Greek Styles Test </span></h2>
+<p>Code 0387 &#903;
+</p><p>Code 00B7 &#183;
+</p><p>&#903;&#183;
+</p><p><span class="script90">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br />
+</p><p><span class="script">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br />
+</p><p><span class="script130">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br />
+</p><p><span class="script150">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br />
+</p>
+<a name="Greek_Extension_Test"></a><h2><span class="editsection">[<a href="/iurl/index.php?title=Sandbox&amp;action=edit&amp;section=3" title="Edit section: Greek Extension Test">edit</a>]</span> <span class="mw-headline"> Greek Extension Test </span></h2>
+<p><span class='script'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Έπίκουρος' title='Use this "playspace" to practice editing conventions and to test features.
+</p><p>== Interlinear Function Testbed ==
+</p><p><interlinear source="Principal Doctrine 17 Text" lookup="GED">1:The,2:/just (is),4:the,5:while</interlinear>
+</p><p>== Greek Styles Test ==
+</p><p>Code 0387 &#903;
+</p><p>Code 00B7 &#183;
+</p><p>&#903;&#183;
+</p><p><span class="script90">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script130">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script150">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p>== Greek Extension Test ==
+</p><p><Greek term="Έπίκουρος"></Greek> = Epikouros = Epicurus
+</p><p><br />
+== Letter to Herodotus ==
+</p><p><Interlinear source="testtext" lookup="GED"></Interlinear>'><font color='#000000'>Έπίκουρος</font></a></span> = Epikouros = Epicurus
+</p><p><br />
+</p>
+<a name="Letter_to_Herodotus"></a><h2><span class="editsection">[<a href="/iurl/index.php?title=Sandbox&amp;action=edit&amp;section=4" title="Edit section: Letter to Herodotus">edit</a>]</span> <span class="mw-headline"> Letter to Herodotus </span></h2>
+<div id='interlinear'><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Use' title='Dictionary empty: use link below:'><font color='#800000'>Use</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Use&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:this' title='Dictionary empty: use link below:'><font color='#800000'>this</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:this&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:playspace' title='Dictionary empty: use link below:'><font color='#800000'>"playspace"</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:playspace&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:to' title='Dictionary empty: use link below:'><font color='#800000'>to</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:to&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:practice' title='Dictionary empty: use link below:'><font color='#800000'>practice</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:practice&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:editing' title='Dictionary empty: use link below:'><font color='#800000'>editing</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:editing&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:conventions' title='Dictionary empty: use link below:'><font color='#800000'>conventions</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:conventions&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:and' title='Dictionary empty: use link below:'><font color='#800000'>and</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:and&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:to' title='Dictionary empty: use link below:'><font color='#800000'>to</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:to&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:test' title='Dictionary empty: use link below:'><font color='#800000'>test</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:test&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:features' title='Dictionary empty: use link below:'><font color='#800000'>features.
+==</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:features&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Interlinear' title='Dictionary empty: use link below:'><font color='#800000'>Interlinear</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Interlinear&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Function' title='Dictionary empty: use link below:'><font color='#800000'>Function</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Function&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Testbed' title='Dictionary empty: use link below:'><font color='#800000'>Testbed</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Testbed&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:interlinear' title='Dictionary empty: use link below:'><font color='#800000'>==
+<interlinear</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:interlinear&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:source="Principal' title='Dictionary empty: use link below:'><font color='#800000'>source="Principal</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:source="Principal&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Doctrine' title='Dictionary empty: use link below:'><font color='#800000'>Doctrine</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Doctrine&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:' title='Use this "playspace" to practice editing conventions and to test features.
+<p>== Interlinear Function Testbed ==
+</p><p><interlinear source="Principal Doctrine 17 Text" lookup="GED">1:The,2:/just (is),4:the,5:while</interlinear>
+</p><p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#880088'>17</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:' title='18)The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p><p>Code 0387 &#903;
+</p><p>Code 00B7 &#183;
+</p><p>&#903;&#183;
+</p><p><span class="script90">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script130">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script150">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p>== Greek Extension Test ==
+</p><p><Greek term="Έπίκουρος"></Greek> = Epikouros = Epicurus
+</p><p><br />
+== Letter to Herodotus ==
+</p><p><Interlinear source="testtext" lookup="GED"></Interlinear>'><font color='#000000'>The,2:/just (is),4:the,5:while</interlinear>
+</p><p>== Greek Styles Test ==
+</p><p>Code 0387 &#903;
+</p><p>Code 00B7 &#183;
+</p><p>&#903;&#183;
+</p><p><span class="script90">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script130">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script150">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p>== Greek Extension Test ==
+</p><p><Greek term="Έπίκουρος"></Greek> = Epikouros = Epicurus
+</p><p><br />
+== Letter to Herodotus ==
+</p>
+<Interlinear source="testtext" lookup="GED"></Interlinear></font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Text' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#800000'>Text"</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Text&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:lookup="GED">1:The,2:/just' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#800000'>lookup="GED">1:The,2:/just</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:lookup="GED">1:The,2:/just&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:is),4:the,5:while</interlinear' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p><p>Code 0387 &amp;#903'><font color='#800000'>(is),4:the,5:while</interlinear>
+</p>
+==</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:is),4:the,5:while</interlinear&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Greek' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#800000'>Greek</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Greek&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Styles' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#800000'>Styles</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Styles&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Test' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#800000'>Test</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Test&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Code' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p><p>Code 0387 &amp;#903'><font color='#800000'>==
+</p>
+Code</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Code&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:' title='Use this "playspace" to practice editing conventions and to test features.
+<p>== Interlinear Function Testbed ==
+</p><p><interlinear source="Principal Doctrine 17 Text" lookup="GED">1:The,2:/just (is),4:the,5:while</interlinear>
+</p><p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#000000'>0387</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:' title='26)The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p><p>Code 0387 &#903;
+</p><p>Code 00B7 &#183;
+</p><p>&#903;&#183;
+</p><p><span class="script90">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script130">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script150">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p>== Greek Extension Test ==
+</p><p><Greek term="Έπίκουρος"></Greek> = Epikouros = Epicurus
+</p><p><br />
+== Letter to Herodotus ==
+</p><p><Interlinear source="testtext" lookup="GED"></Interlinear>'><font color='#000000'>The,2:/just (is),4:the,5:while</interlinear>
+</p><p>== Greek Styles Test ==
+</p><p>Code 0387 &#903;
+</p><p>Code 00B7 &#183;
+</p><p>&#903;&#183;
+</p><p><span class="script90">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script130">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script150">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p>== Greek Extension Test ==
+</p><p><Greek term="Έπίκουρος"></Greek> = Epikouros = Epicurus
+</p><p><br />
+== Letter to Herodotus ==
+</p>
+<Interlinear source="testtext" lookup="GED"></Interlinear></font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Code' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p><p>Code 0387 &amp;#903'><font color='#800000'>&#903;
+</p>
+Code</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Code&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:B' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#800000'>00B7</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:B&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:span' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p><p>Code 0387 &amp;#903'><font color='#800000'>&#183;
+</p><p>&#903;&#183;
+</p>
+<span</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:span&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:class="script90">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+<p><span' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+</p><p>== Greek Styles Test ==
+</p><p>Code 0387 &amp;#903'><font color='#800000'>class="script90">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p>
+<span</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:class="script90">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+<span&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:class="script">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+<p><span' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+</p><p>== Greek Styles Test ==
+</p><p>Code 0387 &amp;#903'><font color='#800000'>class="script">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p>
+<span</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:class="script">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+<span&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:class="script130">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+<p><span' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+</p><p>== Greek Styles Test ==
+</p><p>Code 0387 &amp;#903'><font color='#800000'>class="script130">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p>
+<span</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:class="script130">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+<span&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:class="script150">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p><p>Code 0387 &amp;#903'><font color='#800000'>class="script150">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p>
+==</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:class="script150">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Greek' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#800000'>Greek</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Greek&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Extension' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#800000'>Extension</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Extension&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Test' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#800000'>Test</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Test&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Greek' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p><p>Code 0387 &amp;#903'><font color='#800000'>==
+</p>
+<Greek</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Greek&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:term="Έπίκουρος"></Greek' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#800000'>term="Έπίκουρος"></Greek></font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:term="Έπίκουρος"></Greek&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:' title='Use this "playspace" to practice editing conventions and to test features.
+<p>== Interlinear Function Testbed ==
+</p><p><interlinear source="Principal Doctrine 17 Text" lookup="GED">1:The,2:/just (is),4:the,5:while</interlinear>
+</p><p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#000000'>=</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:' title='39)The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p><p>Code 0387 &#903;
+</p><p>Code 00B7 &#183;
+</p><p>&#903;&#183;
+</p><p><span class="script90">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script130">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script150">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p>== Greek Extension Test ==
+</p><p><Greek term="Έπίκουρος"></Greek> = Epikouros = Epicurus
+</p><p><br />
+== Letter to Herodotus ==
+</p><p><Interlinear source="testtext" lookup="GED"></Interlinear>'><font color='#000000'>The,2:/just (is),4:the,5:while</interlinear>
+</p><p>== Greek Styles Test ==
+</p><p>Code 0387 &#903;
+</p><p>Code 00B7 &#183;
+</p><p>&#903;&#183;
+</p><p><span class="script90">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script130">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script150">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p>== Greek Extension Test ==
+</p><p><Greek term="Έπίκουρος"></Greek> = Epikouros = Epicurus
+</p><p><br />
+== Letter to Herodotus ==
+</p>
+<Interlinear source="testtext" lookup="GED"></Interlinear></font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Epikouros' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#800000'>Epikouros</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Epikouros&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:' title='Use this "playspace" to practice editing conventions and to test features.
+<p>== Interlinear Function Testbed ==
+</p><p><interlinear source="Principal Doctrine 17 Text" lookup="GED">1:The,2:/just (is),4:the,5:while</interlinear>
+</p><p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#000000'>=</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:' title='41)The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p><p>Code 0387 &#903;
+</p><p>Code 00B7 &#183;
+</p><p>&#903;&#183;
+</p><p><span class="script90">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script130">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script150">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p>== Greek Extension Test ==
+</p><p><Greek term="Έπίκουρος"></Greek> = Epikouros = Epicurus
+</p><p><br />
+== Letter to Herodotus ==
+</p><p><Interlinear source="testtext" lookup="GED"></Interlinear>'><font color='#000000'>The,2:/just (is),4:the,5:while</interlinear>
+</p><p>== Greek Styles Test ==
+</p><p>Code 0387 &#903;
+</p><p>Code 00B7 &#183;
+</p><p>&#903;&#183;
+</p><p><span class="script90">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script130">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p><span class="script150">&#7936;&#8051;&#8131;&#970;&#8056;&#8165;&#971;&#8103;&#903;&nbsp;&nbsp;&nbsp;</span><br>
+</p><p>== Greek Extension Test ==
+</p><p><Greek term="Έπίκουρος"></Greek> = Epikouros = Epicurus
+</p><p><br />
+== Letter to Herodotus ==
+</p>
+<Interlinear source="testtext" lookup="GED"></Interlinear></font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Epicurus' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p><p>Code 0387 &amp;#903'><font color='#800000'>Epicurus
+</p><p><br />
+</p>
+==</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Epicurus&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Letter' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#800000'>Letter</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Letter&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:to' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#800000'>to</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:to&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Herodotus' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#800000'>Herodotus</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Herodotus&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Interlinear' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p><p>Code 0387 &amp;#903'><font color='#800000'>==
+</p>
+<Interlinear</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:Interlinear&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:source="testtext' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#800000'>source="testtext"</font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:source="testtext&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p class='script150'><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:lookup="GED"></Interlinear' title='Dictionary empty: use link below:The,2:/just (is),4:the,5:while</interlinear>
+<p>== Greek Styles Test ==
+</p>
+Code 0387 &amp;#903'><font color='#800000'>lookup="GED"></Interlinear></font></a>&nbsp;</p><br><p><a href='http://wiki.epicurism.info/iurl/index.php?title=Template:GED:lookup="GED"></Interlinear&amp;action=edit'><font color='#cc6600'>edit</font></a>&nbsp;&nbsp;</p></span><span><p><a href='http://wiki.epicurism.info/iurl/index.php?title=template:testtext' title='testtext'><img src='http://www.epicurus.info/scroll.gif'></a></p></span></div>
+<div class="printfooter">
+Retrieved from "<a href="http://wiki.epicurism.info/Sandbox">http://wiki.epicurism.info/Sandbox</a>"</div>
+						<!-- end content -->
+			<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+						 <li id="ca-nstab-main" class="selected"><a href="/Sandbox">Article</a></li>
+						 <li id="ca-talk" class="new"><a href="/iurl/index.php?title=Talk:Sandbox&amp;action=edit">Discussion</a></li>
+						 <li id="ca-edit"><a href="/iurl/index.php?title=Sandbox&amp;action=edit">Edit</a></li>
+						 <li id="ca-history"><a href="/iurl/index.php?title=Sandbox&amp;action=history">History</a></li>
+				</ul>
+		</div>
+	</div>
+	
+		<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/Special:Search" id="searchform"><div>
+				<input id="searchInput" name="search" type="text" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" />
+			</div></form>
+		</div>
+	</div>
+
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/iurl/index.php?title=Special:Userlogin&amp;returnto=Sandbox">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(http://wiki.epicurism.info/iurl/skins/common/images/epicuruswiki.png);" href="/Main_Page" title="Main Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+		<div class='portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/Main_Page">Main Page</a></li>
+				<li id="n-Subjects"><a href="/Subjects">Subjects</a></li>
+				<li id="n-Persons"><a href="/Persons">Persons</a></li>
+				<li id="n-Places"><a href="/Places">Places</a></li>
+				<li id="n-Dates"><a href="/Dates">Dates</a></li>
+				<li id="n-Texts"><a href="/Classical_Texts">Texts</a></li>
+				<li id="n-Publications"><a href="/Publications">Publications</a></li>
+			</ul>
+		</div>
+	</div>
+		<div class='portlet' id='p-interaction'>
+		<h5>interaction</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-recentchanges"><a href="/Special:Recentchanges">Recent changes</a></li>
+				<li id="n-randompage"><a href="/Special:Random">Random page</a></li>
+				<li id="n-Sandbox"><a href="/Sandbox">Sandbox</a></li>
+				<li id="n-help"><a href="/Help:Contents">Help</a></li>
+				<li id="n-sitesupport"><a href="/Epicurus_Wiki:Site_support">Donations</a></li>
+			</ul>
+		</div>
+	</div>
+		
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/Special:Whatlinkshere/Sandbox">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/Special:Recentchangeslinked/Sandbox">Related changes</a></li>
+<li id="t-upload"><a href="/Special:Upload">Upload file</a></li>
+<li id="t-specialpages"><a href="/Special:Specialpages">Special pages</a></li>
+				<li id="t-print"><a href="/iurl/index.php?title=Sandbox&amp;oldid=7702&amp;printable=yes">Printable version</a></li>				<li id="t-ispermalink">Permanent link</li>			</ul>
+		</div>
+	</div>
+
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/iurl/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+			<ul id="f-list">
+				<li id="privacy"><a href="/Epicurus_Wiki:Privacy_policy" title="Epicurus Wiki:Privacy policy">Privacy policy</a></li>
+				<li id="about"><a href="/Epicurus_Wiki:About" title="Epicurus Wiki:About">About Epicurus Wiki</a></li>
+				<li id="disclaimer"><a href="/Epicurus_Wiki:General_disclaimer" title="Epicurus Wiki:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+		
+	
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+</div>
+<!-- Served by tizer in 3.538 secs. --></body></html>

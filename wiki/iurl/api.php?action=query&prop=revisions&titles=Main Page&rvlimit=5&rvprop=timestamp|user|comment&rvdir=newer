@@ -1,0 +1,36 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+	<title>MediaWiki API</title>
+</head>
+<body>
+<br/>
+<small>
+You are looking at the HTML representation of the XML format.<br/>
+HTML is good for debugging, but probably is not suitable for your application.<br/>
+Please see "format" parameter documentation at the <a href='api.php'>API help</a>
+for more information.
+</small>
+<pre>
+<span style="color:blue;">&lt;?xml version="1.0" encoding="utf-8"?&gt;</span>
+<span style="color:blue;">&lt;api&gt;</span>
+  <span style="color:blue;">&lt;query&gt;</span>
+    <span style="color:blue;">&lt;pages&gt;</span>
+      <span style="color:blue;">&lt;page pageid="1" ns="0" title="Main Page"&gt;</span>
+        <span style="color:blue;">&lt;revisions&gt;</span>
+          <span style="color:blue;">&lt;rev revid="1" pageid="1" oldid="1" user="MediaWiki default" anon="" timestamp="2007-04-27T15:16:37Z" /&gt;</span>
+          <span style="color:blue;">&lt;rev revid="2" pageid="1" oldid="2" user="Erik Anderson" timestamp="2007-05-05T02:50:29Z" /&gt;</span>
+          <span style="color:blue;">&lt;rev revid="3" pageid="1" oldid="3" user="Erik Anderson" timestamp="2007-05-05T02:51:12Z" comment="/<b>* Major Categories *</b>/" /&gt;</span>
+          <span style="color:blue;">&lt;rev revid="5" pageid="1" oldid="5" user="Erik Anderson" minor="" timestamp="2007-05-05T03:01:19Z" comment="/<b>* List Categories *</b>/" /&gt;</span>
+          <span style="color:blue;">&lt;rev revid="6" pageid="1" oldid="6" user="70.130.68.106" anon="" timestamp="2007-05-05T03:37:37Z" comment="/<b>* Known layout problems *</b>/" /&gt;</span>
+        <span style="color:blue;">&lt;/revisions&gt;</span>
+      <span style="color:blue;">&lt;/page&gt;</span>
+    <span style="color:blue;">&lt;/pages&gt;</span>
+  <span style="color:blue;">&lt;/query&gt;</span>
+  <span style="color:blue;">&lt;query-continue&gt;</span>
+    <span style="color:blue;">&lt;revisions rvstartid="7" /&gt;</span>
+  <span style="color:blue;">&lt;/query-continue&gt;</span>
+<span style="color:blue;">&lt;/api&gt;</span>
+</pre>
+</body>
+</html>

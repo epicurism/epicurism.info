@@ -1,0 +1,37 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+	<title>MediaWiki API</title>
+</head>
+<body>
+<br/>
+<small>
+You are looking at the HTML representation of the XML format.<br/>
+HTML is good for debugging, but probably is not suitable for your application.<br/>
+Please see "format" parameter documentation at the <a href='api.php'>API help</a>
+for more information.
+</small>
+<pre>
+<span style="color:blue;">&lt;?xml version="1.0" encoding="utf-8"?&gt;</span>
+<span style="color:blue;">&lt;api&gt;</span>
+  <span style="color:blue;">&lt;query-continue&gt;</span>
+    <span style="color:blue;">&lt;allpages apfrom="Catius Insurber" /&gt;</span>
+  <span style="color:blue;">&lt;/query-continue&gt;</span>
+  <span style="color:blue;">&lt;query&gt;</span>
+    <span style="color:blue;">&lt;allpages&gt;</span>
+      <span style="color:blue;">&lt;p pageid="66" ns="0" title="Basilides" /&gt;</span>
+      <span style="color:blue;">&lt;p pageid="198" ns="0" title="Beauty" /&gt;</span>
+      <span style="color:blue;">&lt;p pageid="342" ns="0" title="Bromius" /&gt;</span>
+      <span style="color:blue;">&lt;p pageid="310" ns="0" title="Brutus" /&gt;</span>
+      <span style="color:blue;">&lt;p pageid="130" ns="0" title="Caesar" /&gt;</span>
+      <span style="color:blue;">&lt;p pageid="484" ns="0" title="Canon" /&gt;</span>
+      <span style="color:blue;">&lt;p pageid="383" ns="0" title="Capitoline Museum" /&gt;</span>
+      <span style="color:blue;">&lt;p pageid="382" ns="0" title="Capitoline Museums" /&gt;</span>
+      <span style="color:blue;">&lt;p pageid="65" ns="0" title="Carneades" /&gt;</span>
+      <span style="color:blue;">&lt;p pageid="129" ns="0" title="Cassius" /&gt;</span>
+    <span style="color:blue;">&lt;/allpages&gt;</span>
+  <span style="color:blue;">&lt;/query&gt;</span>
+<span style="color:blue;">&lt;/api&gt;</span>
+</pre>
+</body>
+</html>
