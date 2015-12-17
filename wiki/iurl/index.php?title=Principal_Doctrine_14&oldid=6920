@@ -1,2 +1,0 @@
-<br />
-<b>Catchable fatal error</b>:  Argument 1 passed to Article::__construct() must be an instance of Title, null given, called in /home/torquatus/wiki.epicurism.info/iurl/extensions/Interlinear/Interlinear.php on line 95 and defined in <b>/home/torquatus/wiki.epicurism.info/iurl/includes/Article.php</b> on line <b>122</b><br />
