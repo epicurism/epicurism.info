@@ -1,0 +1,43 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+	<title>MediaWiki API</title>
+</head>
+<body>
+<br/>
+<small>
+You are looking at the HTML representation of the XML format.<br/>
+HTML is good for debugging, but probably is not suitable for your application.<br/>
+Please see "format" parameter documentation at the <a href='api.php'>API help</a>
+for more information.
+</small>
+<pre>
+<span style="color:blue;">&lt;?xml version="1.0" encoding="utf-8"?&gt;</span>
+<span style="color:blue;">&lt;api&gt;</span>
+  <span style="color:blue;">&lt;query&gt;</span>
+    <span style="color:blue;">&lt;general mainpage="Main Page" base="<a href="http://wiki.epicurism.info/Main_Page">http://wiki.epicurism.info/Main_Page</a>" sitename="Epicurus Wiki" generator="MediaWiki 1.9.3" case="first-letter" rights="" /&gt;</span>
+    <span style="color:blue;">&lt;namespaces&gt;</span>
+      <span style="color:blue;">&lt;ns id="-2"&gt;</span>Media<span style="color:blue;">&lt;/ns&gt;</span>
+      <span style="color:blue;">&lt;ns id="-1"&gt;</span>Special<span style="color:blue;">&lt;/ns&gt;</span>
+      <span style="color:blue;">&lt;ns id="0" /&gt;</span>
+      <span style="color:blue;">&lt;ns id="1"&gt;</span>Talk<span style="color:blue;">&lt;/ns&gt;</span>
+      <span style="color:blue;">&lt;ns id="2"&gt;</span>User<span style="color:blue;">&lt;/ns&gt;</span>
+      <span style="color:blue;">&lt;ns id="3"&gt;</span>User talk<span style="color:blue;">&lt;/ns&gt;</span>
+      <span style="color:blue;">&lt;ns id="4"&gt;</span>Epicurus Wiki<span style="color:blue;">&lt;/ns&gt;</span>
+      <span style="color:blue;">&lt;ns id="5"&gt;</span>Epicurus Wiki talk<span style="color:blue;">&lt;/ns&gt;</span>
+      <span style="color:blue;">&lt;ns id="6"&gt;</span>Image<span style="color:blue;">&lt;/ns&gt;</span>
+      <span style="color:blue;">&lt;ns id="7"&gt;</span>Image talk<span style="color:blue;">&lt;/ns&gt;</span>
+      <span style="color:blue;">&lt;ns id="8"&gt;</span>MediaWiki<span style="color:blue;">&lt;/ns&gt;</span>
+      <span style="color:blue;">&lt;ns id="9"&gt;</span>MediaWiki talk<span style="color:blue;">&lt;/ns&gt;</span>
+      <span style="color:blue;">&lt;ns id="10"&gt;</span>Template<span style="color:blue;">&lt;/ns&gt;</span>
+      <span style="color:blue;">&lt;ns id="11"&gt;</span>Template talk<span style="color:blue;">&lt;/ns&gt;</span>
+      <span style="color:blue;">&lt;ns id="12"&gt;</span>Help<span style="color:blue;">&lt;/ns&gt;</span>
+      <span style="color:blue;">&lt;ns id="13"&gt;</span>Help talk<span style="color:blue;">&lt;/ns&gt;</span>
+      <span style="color:blue;">&lt;ns id="14"&gt;</span>Category<span style="color:blue;">&lt;/ns&gt;</span>
+      <span style="color:blue;">&lt;ns id="15"&gt;</span>Category talk<span style="color:blue;">&lt;/ns&gt;</span>
+    <span style="color:blue;">&lt;/namespaces&gt;</span>
+  <span style="color:blue;">&lt;/query&gt;</span>
+<span style="color:blue;">&lt;/api&gt;</span>
+</pre>
+</body>
+</html>

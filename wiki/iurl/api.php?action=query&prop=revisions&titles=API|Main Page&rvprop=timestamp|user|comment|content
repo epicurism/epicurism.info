@@ -1,0 +1,103 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+	<title>MediaWiki API</title>
+</head>
+<body>
+<br/>
+<small>
+You are looking at the HTML representation of the XML format.<br/>
+HTML is good for debugging, but probably is not suitable for your application.<br/>
+Please see "format" parameter documentation at the <a href='api.php'>API help</a>
+for more information.
+</small>
+<pre>
+<span style="color:blue;">&lt;?xml version="1.0" encoding="utf-8"?&gt;</span>
+<span style="color:blue;">&lt;api&gt;</span>
+  <span style="color:blue;">&lt;query&gt;</span>
+    <span style="color:blue;">&lt;pages&gt;</span>
+      <span style="color:blue;">&lt;page ns="0" title="API" missing="" /&gt;</span>
+      <span style="color:blue;">&lt;page pageid="1" ns="0" title="Main Page"&gt;</span>
+        <span style="color:blue;">&lt;revisions&gt;</span>
+          <span style="color:blue;">&lt;rev revid="5841" pageid="1" oldid="5835" user="Erik Anderson" timestamp="2008-01-24T06:05:22Z"&gt;</span>&lt;div id=&quot;mainpage&quot;&gt;&lt;/div&gt;&lt;!--
+
+------------------------------Banner across top of page------------------------------&gt;
+{| style=&quot;width:100%; background:#fcfcfc; margin-top:+.9em; border:1px solid #ccc;&quot;
+|style=&quot;width:56%; color:#000&quot;| &lt;!--
+
+&lt;!----------&quot;Welcome to Epicurus Wiki&quot; and article count----------&gt;
+{| style=&quot;border:solid 0px; background:none;&quot;
+|style=&quot;text-align:center; white-space:nowrap; color:#000;&quot;|
+&lt;div style=&quot;font-size:200%; border:none; margin:0; padding:.1em; color:#000;&quot;&gt;&lt;span class=&quot;welcome&quot;&gt;&lt;i&gt;&lt;b&gt;Welcome to the [[Epicurus]] Wiki,&lt;/b&gt;&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div style=&quot;top:+0.2em; font-size:90%;&quot;&gt;the new [[hypertext]] resource of collaborative [[Epicurean]] scholarhip. &lt;/div&gt;
+&lt;div id=&quot;articlecount&quot; style=&quot;width:100%; text-align:center; font-size:85%;&quot;&gt;[[Special:Statistics|{{NUMBEROFARTICLES}}]] articles currently online&lt;/div&gt;
+|}&lt;!--
+
+&lt;!----------Portal list on righthand side----------&gt;
+|style=&quot;width:11%; font-size:92%; color:#000;&quot;|
+*[[Subjects|Subjects]]
+*[[Persons|Biographies]]
+*[[Places|Geography]]
+|style=&quot;width:11%; font-size:95%;&quot;|
+*[[Dates|History]]
+*[[Classical Texts|Texts]]
+*[[Publications|References]]
+|style=&quot;width:11%; font-size:95%;&quot;|
+*[[Special:Recent Changes|Updates]]
+*[[Special:Random|Random]]
+*[[Help:Contents|Help]]
+|}&lt;!--
+
+&lt;!----------------------- Featured article, Current Projects------------------------&gt;
+{|style=&quot;border-spacing:8px; margin:1px -2px;&quot;
+|class=&quot;MainPageBG&quot; style=&quot;width:55%; border:1px solid #cef2e0; background:#f5fffa; vertical-align:top; color:#000;&quot;|
+{|width=&quot;100%&quot; cellpadding=&quot;2&quot; cellspacing=&quot;5&quot; style=&quot;vertical-align:top; background:#f5fffa;&quot;
+! &lt;h2 style=&quot;margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;&quot;&gt;Featured Article&lt;/h2&gt;
+|-
+|style=&quot;color:#000;&quot;| &lt;RollFeature source=&quot;Featured_Articles&quot; cycle=&quot;1440&quot;&gt;&lt;/RollFeature&gt;
+|-
+! &lt;h2 style=&quot;margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;&quot;&gt;Current Projects&lt;/h2&gt;
+|-
+|style=&quot;color:#000;&quot;| {{Current projects}}
+|-
+|}&lt;!--
+
+&lt;!------------------------------Featured Quotes-------------------------------&gt;
+|class=&quot;MainPageBG&quot; style=&quot;width:45%; border:1px solid #cedff2; background:#f5faff; vertical-align:top&quot;|
+{| width=&quot;100%&quot; cellpadding=&quot;2&quot; cellspacing=&quot;5&quot; style=&quot;vertical-align:top; background:#f5faff;&quot;
+! &lt;h2 style=&quot;margin:0; background:#cedff2; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#000; padding:0.2em 0.4em;&quot;&gt;Featured Quotes&lt;/h2&gt;
+|-
+|style=&quot;color:#000;&quot;| &lt;RollFeature source=&quot;Featured_Quotes&quot; cycle=&quot;60&quot; format=&quot;quotes&quot; quotecount=&quot;3&quot;&gt;&lt;/RollFeature&gt;
+|-
+! &lt;h2 style=&quot;margin:0; background:#cedff2; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#000; padding:0.2em 0.4em;&quot;&gt;Wiki News...&lt;/h2&gt;
+|-
+|style=&quot;color:#000;&quot;| {{Epicurus Wiki News}}
+|-
+|}
+|}&lt;!--
+
+------------------------------Featured picture-------------------------------&gt;
+{| style=&quot;border-spacing:8px; margin:0px -2px;&quot;
+|class=&quot;MainPageBG&quot; style=&quot;width:100%; border:1px solid #ddcef2; background:#faf5ff; vertical-align:top; color:#000;&quot;|
+{| cellpadding=&quot;2&quot; cellspacing=&quot;5&quot; style=&quot;vertical-align:top; background:#faf5ff; color:#000&quot;
+! &lt;h2 style=&quot;margin:0; background:#ddcef2; font-size:120%; font-weight:bold; border:1px solid #afa3bf; text-align:left; color:#000; padding:0.2em 0.4em;&quot;&gt;Featured Picture&lt;/h2&gt;
+|-
+|style=&quot;color:#000;&quot;| &lt;RollFeature source=&quot;Featured_Pictures&quot; cycle=&quot;1440&quot;&gt;&lt;/RollFeature&gt;
+|-
+|}
+|}&lt;!--
+
+
+-----------------------------Sections at bottom of page------------------------------&gt;
+
+
+&lt;!--
+--&gt;__NOTOC__  __NOEDITSECTION__&lt;!--<span style="color:blue;">&lt;/rev&gt;</span>
+        <span style="color:blue;">&lt;/revisions&gt;</span>
+      <span style="color:blue;">&lt;/page&gt;</span>
+    <span style="color:blue;">&lt;/pages&gt;</span>
+  <span style="color:blue;">&lt;/query&gt;</span>
+<span style="color:blue;">&lt;/api&gt;</span>
+</pre>
+</body>
+</html>
